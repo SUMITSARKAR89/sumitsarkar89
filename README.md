@@ -1,6 +1,5 @@
 ![Learning Web Development](https://media.licdn.com/dms/image/D5616AQGlmkO1j38i7A/profile-displaybackgroundimage-shrink_350_1400/0/1682338864888?e=1697673600&v=beta&t=N0XoUCx9ojnmBuivg3nRTGzREqRG28yl20YStbjfFbg)
-# Hi 👋, 
-#I am Sumit Sarkar
+# Hi, I am Sumit Sarkar
 #### Learning Web Development
 I am Sumit Sarkar from Bangladesh. I work in private Audit farm for 7 years and doing database collection in Audit farm. I am a professional data entry and lead generation expert. I am skill in Data Entry, Web Research and B2b Lead Generation spot. I am learning Web Development to acquire a better knowledge in HTML, CSS, JAVASCRIPT and many ordinary tools. 
 Thanks and Regards, 
