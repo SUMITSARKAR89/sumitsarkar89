@@ -32,17 +32,21 @@
 <img src="./image/bootstrap.png" width="80">
 <img src="./image/js.png" width="80">
 </div>
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUMITSARKAR89)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUMITSARKAR89)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SUMITSARKAR89&show_icons=true)  
+<br/>
  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SUMITSARKAR89)  
+<br/>
 
 ###  __Activities / Hobby__:
-- ♟️Chess,  🎨 Painting, 🎸 Playing Guiter, 📚 Books 
+- ♟️Chess,  🎨 Painting, 🎸 Playing Guiter, 📚 Books <br/>
 
 <!-- --link-- -->
 [facebooklink]: https://www.facebook.com/sumitsarkar89
