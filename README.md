@@ -13,7 +13,7 @@ Skills: DATA ENTRY/Lead Generation/HTML/CSS/JAVASCRIPT
 - 💬 Ask me about HTML and CSS 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SUMITSARKAR89)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sumit-sarkar-94a50a266/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sumit.sarkar.1829405)  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUMITSARKAR89)](https://github.com/ryo-ma/github-profile-trophy)
 
