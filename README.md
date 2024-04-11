@@ -62,7 +62,7 @@
 
     <br/>
     
-    <img src="./image/file.png" width="50" alt="profile" > __"There is no friend as loyal as a book"__ 
+   ### __"There is no friend as loyal as a book"__ 
 
 <hr/>
  <p style="text-align:center">All rights reserved by Sumit sarkar @2022</p>
