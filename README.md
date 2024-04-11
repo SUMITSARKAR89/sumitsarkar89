@@ -61,7 +61,7 @@
 
     <br/>
     
-    <img src="/image/sumitsarkar.jpg" width="150" alt="profile" >
+    <img src="./image/file.png" width="150" alt="profile" >
 #### __"There is no friend as loyal as a book"__ 
 
 
