@@ -65,7 +65,7 @@
    ### __"There is no friend as loyal as a book"__ 
 
 <hr/>
- <p style="text-align:center" style="color:#fefede" >All rights reserved by Sumit sarkar @2022</p>
+ <p style="text-align:center" style="color:#fefe" >All rights reserved by Sumit sarkar @2022</p>
 <hr/>
 
 
