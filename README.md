@@ -8,12 +8,14 @@
 My expertise lies in coding languages like HTML, CSS, and JavaScript, and I'm also comfortable with frameworks like Bootstrap and React. I focus on creating user-friendly and visually appealing interfaces that make navigating websites a breeze.
 
 
-Skills: DATA ENTRY/Lead Generation/HTML/CSS/JAVASCRIPT
-
-- 🔭 I’m currently working on Market Place 
-- 🌱 I’m currently learning JAVASCRIPT 
+- 💼 I’m currently working on Codeman BD
+- 🌱 I’m currently learning and practise JAVASCRIPT 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about HTML and CSS 
+- 💬 Ask me about HTML, CSS and JS
+
+#### SKILL & Expertise :
+
+<i class="fa-brands fa-html5"></i>
 
 
 
