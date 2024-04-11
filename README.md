@@ -25,11 +25,13 @@
 <br/>
 
 ### __SKILL & Expertise__:
+<div style="display:flex">
 <img src="./image/html.png" width="80">
 <img src="./image/css.png" width="80">
 <img src="./image/tailwind.png" width="80">
 <img src="./image/bootstrap.png" width="80">
 <img src="./image/js.png" width="80">
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUMITSARKAR89)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUMITSARKAR89)](https://github.com/anuraghazra/github-readme-stats)
