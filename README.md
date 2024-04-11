@@ -60,8 +60,10 @@
     - Bachelor of Business Administration (2009-2015)
 
     <br/>
+    
     <img src="./image/sumit png.png" width="50" height="50" style="border-radius:50%; object-fit:cover;>
     <br/>
+    <img src="./image/sumit png.png" width="60">
 #### __"There is no friend as loyal as a book"__ 
 
 
