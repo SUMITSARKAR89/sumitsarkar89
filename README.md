@@ -61,7 +61,7 @@
 
     <br/>
     
-    <img src="./image/logo.jpg" width="80" alt="profile" style="border-radius: 50" >
+    <img src="./image/sumitsarkar.jpg" width="80" alt="profile" >
 #### __"There is no friend as loyal as a book"__ 
 
 
