@@ -1,32 +1,52 @@
-
-# Hi, I am Sumit Sarkar
-
+<!--markdown-->
+#Hi, I am Sumit Sarkar  
+--- 
 ### Frontend web Developer
-🏠 lived in Dhaka, Bangladesh
+#### 🏠 lived in Dhaka, Bangladesh
+<br/>
 
-#### 👤 About me
-My expertise lies in coding languages like HTML, CSS, and JavaScript, and I'm also comfortable with frameworks like Bootstrap and React. I focus on creating user-friendly and visually appealing interfaces that make navigating websites a breeze.
+[<img src="./image/facebook.png">][facebooklink][<img src="./image/linkedin.png">][linkedinlink]
+[<img src="./image/gmail.png">][gmaillink]
+[<img src="./image/github.png">][githublink]
+[<img src="./image/link.png">][cvlink]
 
 
-- 💼 I’m currently working on Codeman BD
-- 🌱 I’m currently learning and practise JAVASCRIPT 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about HTML, CSS and JS
 
-#### SKILL & Expertise :
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=jbg63RKC&id=047C91CECDF03389C5554A81272E80D28DEB6BBA&thid=OIP.jbg63RKCpLmoSNS07XYlmwHaHc&mediaurl=https%3a%2f%2fwww.drupal.org%2ffiles%2fproject-images%2ffont_awesome_logo.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8db83add1282a4b9a848d4b4ed76259b%3frik%3dumvrjdKALieBSg%26pid%3dImgRaw%26r%3d0&exph=498&expw=495&q=fontawaresome&simid=608005471051780818&FORM=IRPRST&ck=101C19ABE37AF5E1C116861DF3D4DF8D&selectedIndex=3&itb=0" alt="">
+### 👤 __About me__
+<p>My expertise lies in coding languages like HTML, CSS, and JavaScript, and I'm also comfortable with frameworks like Bootstrap and React. I focus on creating user-friendly and visually appealing interfaces that make navigating websites a breeze.</p>
 
+<br/>
+
+- 💼 I’m currently working on  __Codeman BD__.
+- 🌱 I’m currently learning and practise __JAVASCRIPT__.
+- 👯 I’m looking to collaborate on __GitHub__.
+- 💬 Ask me about `HTML, CSS and JS`.
+
+<br/>
+
+### __SKILL & Expertise__:
+<img src="./image/html.png" width="80">
+<img src="./image/css.png" width="80">
+<img src="./image/tailwind.png" width="80">
+<img src="./image/bootstrap.png" width="80">
+<img src="./image/js.png" width="80">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUMITSARKAR89)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUMITSARKAR89)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SUMITSARKAR89&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SUMITSARKAR89)  
-
-![GitHub metrics](https://metrics.lecoq.io/SUMITSARKAR89)  
+ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SUMITSARKAR89)  
 
-![Profile views](https://gpvc.arturio.dev/SUMITSARKAR89)  
+###  __Activities / Hobby__:
+- ♟️Chess,  🎨 Painting, 🎸 Playing Guiter, 📚 Books 
+
+<!-- --link-- -->
+[facebooklink]: https://www.facebook.com/sumitsarkar89
+[linkedinlink]:https://www.linkedin.com/in/sumitsarkar89/
+[gmaillink]: www.sumitopticalit89@gmail.com
+[githublink]: https://github.com/SUMITSARKAR89
+[cvlink]:https://drive.google.com/file/d/1CTEwnPjn2WZW2E9qf5NDFViXcVLVEMD-/view?usp=drive_link
+
+
