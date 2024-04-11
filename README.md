@@ -62,8 +62,7 @@
 
     <br/>
     
-    <img src="./image/file.png" width="80" alt="profile" >  
-#### __"There is no friend as loyal as a book"__ 
+    <img src="./image/file.png" width="80" alt="profile" > #### __"There is no friend as loyal as a book"__ 
 
 
 
