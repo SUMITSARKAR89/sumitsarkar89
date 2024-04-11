@@ -20,21 +20,23 @@
 - 💼 I’m currently working on  __Codeman BD__.
 - 🌱 I’m currently learning and practise __JAVASCRIPT__.
 - 👯 I’m looking to collaborate on __GitHub__.
+- 📝 Expert on `Lead generation`
 - 💬 Ask me about `HTML, CSS and JS`.
 
 <br/>
 
 ### __SKILL & Expertise__:
 <div style="display:flex">
-<img src="./image/html.png" width="80">
-<img src="./image/css.png" width="80">
-<img src="./image/tailwind.png" width="80">
-<img src="./image/bootstrap.png" width="80">
-<img src="./image/js.png" width="80">
+<img src="./image/html.png" width="60">
+<img src="./image/css.png" width="60">
+<img src="./image/tailwind.png" width="60">
+<img src="./image/bootstrap.png" width="60">
+<img src="./image/js.png" width="60">
 </div>
 <br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUMITSARKAR89)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUMITSARKAR89)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
@@ -46,7 +48,21 @@
 <br/>
 
 ###  __Activities / Hobby__:
-- ♟️Chess,  🎨 Painting, 🎸 Playing Guiter, 📚 Books <br/>
+- ♟️Chess,  🎨 Painting, 🎸 Playing Guiter, 📚 Books 
+<br/>
+
+### __Education__:
+1. __Codeman BD__
+    - Creative Frontend Development (2023-2024)
+2. __Infobase computer center__
+    - ICT & computer programming (2012-2013)
+3. __University of Development Alternative (UODA)__
+    - Bachelor of Business Administration (2009-2015)
+
+<hr/>
+ <p style="text-align:center">All rights reserved by Sumit sarkar @2022</p>
+<hr/>
+
 
 <!-- --link-- -->
 [facebooklink]: https://www.facebook.com/sumitsarkar89
