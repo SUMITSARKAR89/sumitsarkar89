@@ -1,8 +1,8 @@
 
 # Hi, I am Sumit Sarkar
 ---
-
 #### Frontend web Developer
+🏠 lived in Dhaka, Bangladesh
 I am Sumit Sarkar from Bangladesh. I work in private Audit farm for 7 years and doing database collection in Audit farm. I am a professional data entry and lead generation expert. I am skill in Data Entry, Web Research and B2b Lead Generation spot. I am learning Web Development to acquire a better knowledge in HTML, CSS, JAVASCRIPT and many ordinary tools. 
 Thanks and Regards, 
 Sumit Sarkar
