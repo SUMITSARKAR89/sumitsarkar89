@@ -63,7 +63,7 @@
     
     <img src="./image/sumit png.png" width="50" height="50" style="border-radius:50%; object-fit:cover;>
     <br/>
-    <img src="./image/sumit png.png" width="60" height="60" style="border-radius:50; object-fit:cover;" >
+    <img src="./image/sumit png.png" width="60" height="60" style="border-radius:50; object-fit:cover" >
 #### __"There is no friend as loyal as a book"__ 
 
 
