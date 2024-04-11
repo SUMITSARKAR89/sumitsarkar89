@@ -59,6 +59,13 @@
 3. __University of Development Alternative (UODA)__
     - Bachelor of Business Administration (2009-2015)
 
+    <br/>
+    <img src="./image/sumit png.png" width="50" height="50" style="border-radius:50%; object-fit:cover;>
+    <br/>
+#### __"There is no friend as loyal as a book"__ 
+
+
+
 <hr/>
  <p style="text-align:center">All rights reserved by Sumit sarkar @2022</p>
 <hr/>
