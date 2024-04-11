@@ -5,7 +5,8 @@
 #### 🏠 lived in Dhaka, Bangladesh
 <br/>
 
-[<img src="./image/facebook.png">][facebooklink][<img src="./image/linkedin.png">][linkedinlink]
+[<img src="./image/facebook.png">][facebooklink]
+[<img src="./image/linkedin.png">][linkedinlink]
 [<img src="./image/gmail.png">][gmaillink]
 [<img src="./image/github.png">][githublink]
 [<img src="./image/link.png">][cvlink]
@@ -62,7 +63,11 @@
     <br/>
     
     <img src="./image/sumitsarkar.jpg" width="80" alt="profile" >
+    <br/><br/>
+    
 #### __"There is no friend as loyal as a book"__ 
+
+
 
 
 
