@@ -14,9 +14,7 @@ My expertise lies in coding languages like HTML, CSS, and JavaScript, and I'm al
 - 💬 Ask me about HTML, CSS and JS
 
 #### SKILL & Expertise :
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/></svg>
-
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=jbg63RKC&id=047C91CECDF03389C5554A81272E80D28DEB6BBA&thid=OIP.jbg63RKCpLmoSNS07XYlmwHaHc&mediaurl=https%3a%2f%2fwww.drupal.org%2ffiles%2fproject-images%2ffont_awesome_logo.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.8db83add1282a4b9a848d4b4ed76259b%3frik%3dumvrjdKALieBSg%26pid%3dImgRaw%26r%3d0&exph=498&expw=495&q=fontawaresome&simid=608005471051780818&FORM=IRPRST&ck=101C19ABE37AF5E1C116861DF3D4DF8D&selectedIndex=3&itb=0" alt="">
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SUMITSARKAR89)](https://github.com/ryo-ma/github-profile-trophy)
