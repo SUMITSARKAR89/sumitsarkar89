@@ -13,7 +13,7 @@
 
 
 
-<img src="./image/file.png" width="50" alt="profile" > <h2> About me </h2>
+<img src="./image/file.png" width="40" alt="profile" > __About me__ 
 <p>My expertise lies in coding languages like HTML, CSS, and JavaScript, and I'm also comfortable with frameworks like Bootstrap and React. I focus on creating user-friendly and visually appealing interfaces that make navigating websites a breeze.</p>
 
 <br/>
