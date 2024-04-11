@@ -61,7 +61,7 @@
 
     <br/>
     
-    <img src="./image/sumit png.png" width="100" border-radius="50%" >
+    <img src="./image/sumit png.png" width="60" border-radius="50%" >
 #### __"There is no friend as loyal as a book"__ 
 
 
