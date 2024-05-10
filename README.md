@@ -9,11 +9,11 @@
 [<img src="./image/linkedin.png">][linkedinlink]
 [<img src="./image/gmail.png">][gmaillink]
 [<img src="./image/github.png">][githublink]
-[<img src="./image/link (1).png">][cvlink]
 
 
 
-<img src="./image/file.png" width="45" alt="profile" > __About me__ 
+
+<img src="./image/file.png" width="45" alt="profile" > __About me__ [<img src="./image/link (1).png">][cvlink]
 <p>My expertise lies in coding languages like HTML, CSS, and JavaScript, and I'm also comfortable with frameworks like Bootstrap and React. I focus on creating user-friendly and visually appealing interfaces that make navigating websites a breeze.</p>
 
 <br/>
