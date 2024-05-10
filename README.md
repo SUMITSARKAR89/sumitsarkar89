@@ -9,7 +9,7 @@
 [<img src="./image/linkedin.png">][linkedinlink]
 [<img src="./image/gmail.png">][gmaillink]
 [<img src="./image/github.png">][githublink]
-[<img src="./image/link.png">][cvlink]
+[<img src="./image/link (1).png">][cvlink]
 
 
 
