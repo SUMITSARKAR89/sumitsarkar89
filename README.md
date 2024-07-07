@@ -33,6 +33,7 @@
 <img src="./image/tailwind.png" width="60">
 <img src="./image/bootstrap.png" width="60">
 <img src="./image/js.png" width="60">
+<img src="./image/react.png" width="60">
 </div>
 <br/>
 
