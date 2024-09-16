@@ -19,10 +19,11 @@
 <br/>
 
 - 💼 I’m currently working on  __Codeman BD__.
-- 🌱 I’m currently learning and practise __JAVASCRIPT__.
+- 🌱 I’m currently learning and practise __ReactJS__.
 - 👯 I’m looking to collaborate on __GitHub__.
 - 📝 Expert on `Lead generation`
-- 💬 Ask me about `HTML, CSS and JS`.
+- 📝 Expert on `ReactJS`
+- 💬 Ask me about `HTML, CSS and JavaScript`.
 
 <br/>
 
