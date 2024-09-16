@@ -35,8 +35,8 @@
 <img src="./image/bootstrap.png" width="60">
 <img src="./image/js.png" width="60">
 <img src="./image/react.png" width="60">
- <img src="./image/github (1).png" width="60">
- <img src="./image/github (1).png" width="60">
+ <img src="./image/github.png" width="63">
+ <img src="./image/figma.png" width="60">
 </div>
 <br/>
 
