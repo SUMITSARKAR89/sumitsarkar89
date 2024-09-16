@@ -8,7 +8,7 @@
 [<img src="./image/facebook.png">][facebooklink]
 [<img src="./image/linkedin.png">][linkedinlink]
 [<img src="./image/gmail.png">][gmaillink]
-[<img src="./image/github.png">][githublink]
+
 
 
 
@@ -35,6 +35,8 @@
 <img src="./image/bootstrap.png" width="60">
 <img src="./image/js.png" width="60">
 <img src="./image/react.png" width="60">
+ <img src="./image/github (1).png" width="60">
+ <img src="./image/github (1).png" width="60">
 </div>
 <br/>
 
