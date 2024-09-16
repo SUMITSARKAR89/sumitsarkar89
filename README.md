@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on __GitHub__.
 - 📝 Expert on `Lead generation`
 - 📝 Expert on `ReactJS`
-- 💬 Ask me about `HTML, CSS and JavaScript`.
+- 💬 Ask me about `HTML, CSS, Bootstrap, Tailwind and JavaScript`.
 
 <br/>
 
