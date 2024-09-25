@@ -5,10 +5,11 @@
 #### 🏠 lived in Dhaka, Bangladesh
 <br/>
 
-[<img src="./image/facebook.png">][facebooklink]
-[<img src="./image/linkedin.png">][linkedinlink]
-[<img src="./image/gmail.png">][gmaillink]
+[<img src="./image/icons8-facebook-40.png">][facebooklink]
+[<img src="./image/icons8-linkedin-40.png">][linkedinlink]
+[<img src="./image/icons8-gmail-40.png">][gmaillink]
 [<img src="./image/icons8-behance-40.png">][behancelink]
+[<img src="./image/icons8-telegram-40.png">][telegramlink]
 
 
 
@@ -83,6 +84,7 @@
 [facebooklink]: https://www.facebook.com/sumitsarkar89
 [behancelink]:https://www.behance.net/sumitsarkar89
 [linkedinlink]:https://www.linkedin.com/in/sumitsarkar89/
+[telegramlink]:https://t.me/sumitoptical89/
 [gmaillink]: www.sumitopticalit89@gmail.com
 [githublink]: https://github.com/SUMITSARKAR89
 [cvlink]:https://drive.google.com/file/d/1CTEwnPjn2WZW2E9qf5NDFViXcVLVEMD-/view?usp=drive_link
